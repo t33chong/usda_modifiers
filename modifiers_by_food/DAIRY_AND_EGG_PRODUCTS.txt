@@ -1,0 +1,51 @@
+butter oil	anhydrous
+cheese	blue,brick,brie,camembert,caraway,cheddar,cheshire,colby,cottage,creamed,large or small curd,with fruit,nonfat,uncreamed,dry,lowfat,two percent milkfat,one percent milkfat,cream,edam,feta,fontina,gjetost,gouda,gruyere,limburger,monterey,mozzarella,whole milk,low moisture,part skim milk,muenster,neufchatel,parmesan,grated,hard,port de salut,provolone,ricotta,romano,roquefort,swiss,tilsit,pasteurized process,american,fortified with vitamin d,pimento,shredded,goat,hard type,semisoft type,soft type,mexican,queso anejo,queso asadero,queso chihuahua,low fat,cheddar or colby,low sodium,fat free,dry grated,reduced fat,blend,dry white,queso seco,fresh,queso fresco,white,queso blanco,mexican blend,without added vitamin d,cheddar or american,lactose reduced,with vegetables,american cheddar,imitation,no sodium added
+ice cream cone	chocolate covered,with nuts,flavors other than chocolate
+kraft velveeta light reduced fat pasteurized process cheese product	
+parmesan cheese topping	fat free
+ice cream sandwich	made with light ice cream,vanilla,light,no sugar added
+sour cream	imitation,cultured,reduced fat,light,fat free
+cheese sauce	prepared from recipe
+sour dressing	non butterfat,cultured,filled cream type
+milk shakes	thick chocolate,thick vanilla
+milk	filled,fluid,with blend of hydrogenated vegetable oils,with lauric acid oil,whole,three.twenty-five percent milkfat,with added vitamin d,producer,three.seven percent milkfat,reduced fat,two percent milkfat,with added vitamin a and vitamin d,with added nonfat milk solids and vitamin a and vitamin d,protein fortified,lowfat,one percent milkfat,with added nonfat milk solids,vitamin a and vitamin d,nonfat,buttermilk,cultured,low sodium,dry,regular,without added vitamin a and vitamin d,instant,calcium reduced,dried,canned,condensed,sweetened,evaporated,with added vitamin d and without added vitamin a,chocolate,commercial,chocolate beverage,hot cocoa,homemade,goat,human,mature,indian buffalo,sheep,without added vitamin a,with added vitamin a,one percent fat,with added calcium,without added vitamin d,calcium fortified,imitation,non soy
+ice cream	soft serve,chocolate,bar or stick,chocolate covered
+cream	fluid,half and half,light,light whipping,heavy whipping,whipped,cream topping,pressurized,sour,reduced fat,cultured,fat free
+kraft breyers light n' lively lowfat strawberry yogurt	
+dulce de leche	
+egg mix	usda commodity
+usda commodity	cheese,cheddar,reduced fat
+yogurt	plain,whole milk,eight grams protein per eight ounce,low fat,twelve grams protein per eight ounce,skim milk,thirteen grams protein per eight ounce,vanilla,eleven grams protein per eight ounce,fruit,nine grams protein per eight ounce,ten grams protein per eight ounce,vanilla or lemon flavor,nonfat milk,sweetened with low calorie sweetener,chocolate,lowfat,with low calorie sweetener,fortified with vitamin d,fruit variety,nonfat,vanilla flavor,lowfat milk,frozen,flavors not chocolate,greek
+whipped cream substitute	dietetic,made from powdered mix
+whey	acid,fluid,dried,sweet
+kraft free singles american nonfat pasteurized process cheese product	
+cheese product	pasteurized process,american,reduced fat,fortified with vitamin d,vitamin d fortified,cheddar
+kraft breakstone's free fat free sour cream	
+cheese food	cold pack,american,pasteurized process,vitamin d fortified,swiss,without added vitamin d,imitation
+ensure plus	liquid nutrition
+eggs	scrambled,frozen mixture
+fat free ice cream	no sugar added,flavors other than chocolate
+dessert topping	powdered,one.five ounce prepared with one/two cup milk,pressurized,semi solid,frozen
+kraft breyers light nonfat strawberry yogurt	
+imitation cheese	american or cheddar,low cholesterol
+cream substitute	liquid,with hydrogenated vegetable oil and soy protein,with lauric acid oil and sodium caseinate,powdered,flavored,light
+milk dessert bar	frozen,made from lowfat milk
+kraft velveeta pasteurized process cheese spread	
+kraft cheez whiz pasteurized process cheese sauce	
+kraft breyers smooth & creamy lowfat strawberry yogurt	
+butter	salted,whipped,with salt,without salt
+eggnog	
+whipped topping	frozen,low fat
+cheese substitute	mozzarella
+cheese spread	pasteurized process,american,cream cheese base
+milk substitutes	fluid,with lauric acid oil
+reddi wip fat free whipped topping	
+ice cream cookie sandwich	
+beverage	milkshake mix,dry,not chocolate,instant breakfast powder,chocolate,not reconstituted,sugar free
+protein supplement	milk based,muscle milk,powder,muscle milk light
+kraft cheez whiz light pasteurized process cheese product	
+kraft breakstone's reduced fat sour cream	
+kraft breyers lowfat strawberry yogurt	
+egg substitute	powder,liquid or frozen,fat free
+egg	whole,raw,fresh,white,yolk,frozen,pasteurized,sugared,cooked,fried,hard boiled,omelet,poached,scrambled,dried,stabilized,glucose reduced,flakes,powder,duck,goose,quail,turkey,salted
+nutritional supplement for people with diabetes	liquid

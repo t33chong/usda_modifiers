@@ -1,0 +1,123 @@
+currants	european black,raw,red and white,zante,dried
+bananas	raw,dehydrated,or banana powder
+rose apples	raw
+tamarind nectar	canned
+peaches	raw,canned,water pack,solids and liquids,juice pack,extra light syrup,light syrup pack,heavy syrup pack,extra heavy syrup pack,spiced,dehydrated,sulfured,uncooked,stewed,dried,without added sugar,with added sugar,frozen,sliced,sweetened,heavy syrup,drained
+sugar apples	,raw
+grape juice	canned or bottled,unsweetened,with added ascorbic acid,without added ascorbic acid
+passion fruit	,purple,raw
+blueberries	raw,canned,heavy syrup,solids and liquids,wild,frozen,unsweetened,sweetened,light syrup,drained
+clementines	raw
+custard apple	,raw
+abiyuch	raw
+plantains	raw,cooked,green,fried,yellow,latino restaurant
+cherries	sour,red,raw,canned,water pack,solids and liquids,light syrup pack,heavy syrup pack,extra heavy syrup pack,frozen,unsweetened,sweet,juice pack,pitted,sweetened,heavy syrup,drained
+nectarines	raw
+cranberries	raw,dried,sweetened
+maraschino cherries	canned,drained
+plums	raw,canned,purple,water pack,solids and liquids,juice pack,light syrup pack,heavy syrup pack,extra heavy syrup pack,dried,uncooked,stewed,without added sugar,with added sugar,heavy syrup,drained
+carambola	,raw
+blackberries	raw,canned,heavy syrup,solids and liquids,frozen,unsweetened
+horned melon	
+lemon peel	raw
+oranges	raw,all commercial varieties,california,valencias,navels,florida,with peel
+watermelon	raw
+prunes	canned,heavy syrup pack,solids and liquids,dehydrated,uncooked,stewed
+jackfruit	raw,canned,syrup pack
+tangerine juice	raw,canned,sweetened,frozen concentrate,undiluted,diluted with three volume water
+limes	raw
+acerola	,raw
+soursop	raw
+litchis	raw,dried
+breadfruit	raw
+guava nectar	canned
+papaya nectar	canned
+prune juice	canned
+mango nectar	canned
+pomegranate juice	bottled
+feijoa	raw
+applesauce	canned,unsweetened,without added ascorbic acid,sweetened,without salt,with added ascorbic acid,with salt
+usda commodity	mixed fruit,canned,light syrup,drained,solids and liquids
+rowal	raw
+cranberry sauce	canned,sweetened
+jujube	raw,dried
+apricot nectar	canned,without added ascorbic acid,with added ascorbic acid
+tamarinds	raw
+prickly pears	raw
+raspberries	raw,canned,red,heavy syrup pack,solids and liquids,frozen,sweetened
+cherimoya	raw
+elderberries	raw
+grapes	muscadine,raw,american type,red or green,canned,thompson seedless,water pack,solids and liquids,heavy syrup pack
+kumquats	raw
+pineapple juice	canned,unsweetened,without added ascorbic acid,frozen concentrate,undiluted,diluted with three volume water,with added ascorbic acid
+dates	deglet noor,medjool
+orange juice	raw,canned,unsweetened,chilled,includes from concentrate,fortified with calcium and vitamin d,fortified with calcium,frozen concentrate,undiluted,diluted with three volume water
+melon balls	frozen
+usda commodity peaches	canned,light syrup,drained
+mangosteen	canned,syrup pack
+orange grapefruit juice	canned,unsweetened
+mulberries	raw
+loganberries	frozen
+candied fruit	
+mangos	raw
+grapefruit juice	white,canned,unsweetened,sweetened,frozen concentrate,undiluted,diluted with three volume water,raw,pink
+olives	ripe,canned,pickled,canned or bottled,green
+cranberry juice	unsweetened
+java plum	,raw
+pears	raw,canned,water pack,solids and liquids,juice pack,extra light syrup pack,light syrup pack,heavy syrup pack,extra heavy syrup pack,dried,sulfured,uncooked,stewed,without added sugar,with added sugar,asian,heavy syrup,drained,bartlett
+grapefruit	raw,pink and red and white,all areas,pink and red,california and arizona,florida,white,california,sections,canned,water pack,solids and liquids,juice pack,light syrup pack
+guanabana nectar	canned
+avocados	raw,all commercial varieties,california,florida
+apple juice	canned or bottled,unsweetened,without added ascorbic acid,frozen concentrate,undiluted,diluted with three volume water without added ascorbic acid,with added ascorbic acid,diluted with three volume water
+raisins	golden seedless,seedless,seeded
+crabapples	raw
+boysenberries	canned,heavy syrup,frozen,unsweetened
+strawberries	raw,canned,heavy syrup pack,solids and liquids,frozen,unsweetened,sweetened,whole,sliced
+carissa	,raw
+lemons	raw,without peel
+acerola juice	raw
+mammy apple	,raw
+oheloberries	raw
+fruit cocktail	,canned,water pack,solids and liquids,juice pack,extra light syrup,light syrup,heavy syrup,extra heavy syrup,drained
+juice	apple and grape blend,with added ascorbic acid,apple,grape and pear blend,with added ascorbic acid and calcium
+naranjilla  pulp	frozen,unsweetened
+cranberry orange relish	canned
+apples	raw,with skin,without skin,cooked,boiled,microwave,canned,sweetened,sliced,drained,unheated,heated,dehydrated,sulfured,uncooked,stewed,dried,without added sugar,with added sugar,frozen,unsweetened,golden delicious
+tangerines	,raw,canned,juice pack,light syrup pack,drained
+grape juice cocktail	frozen concentrate,undiluted,with added ascorbic acid,diluted with three volume water
+blackberry juice	canned
+pear nectar	canned,without added ascorbic acid,with added ascorbic acid
+melons	cantaloupe,raw,casaba,honeydew
+quinces	raw
+usda commodity pears	canned,juice pack,drained,light syrup
+lemon juice	raw,canned or bottled,frozen,unsweetened,single strength
+durian	raw or frozen
+rhubarb	raw,frozen,uncooked,cooked,with sugar
+guavas	common,raw,strawberry
+apricots	raw,canned,water pack,with skin,solids and liquids,without skin,juice pack,extra light syrup pack,light syrup pack,heavy syrup pack,extra heavy syrup pack,dehydrated,sulfured,uncooked,stewed,dried,without added sugar,with added sugar,frozen,sweetened,heavy syrup,drained
+papayas	raw
+sapodilla	raw
+lime juice	raw,canned or bottled,unsweetened
+papaya	canned,heavy syrup,drained
+groundcherries	,raw
+gooseberries	raw,canned,light syrup pack,solids and liquids
+rambutan	canned,syrup pack
+orange peel	raw
+guava sauce	cooked
+pitanga	,raw
+sapote	mamey,raw
+persimmons	japanese,raw,dried,native
+fruit salad	,canned,water pack,solids and liquids,juice pack,light syrup,heavy syrup,extra heavy syrup,tropical
+pummelo	raw
+nance	canned,syrup,drained,frozen,unsweetened
+longans	raw,dried
+loquats	raw
+orange pineapple juice blend	
+kiwifruit	green,raw,gold
+peach nectar	canned,without added ascorbic acid,with added ascorbic acid
+pineapple	raw,all varieties,canned,water pack,solids and liquids,juice pack,light syrup pack,heavy syrup pack,extra heavy syrup pack,frozen,chunks,sweetened,drained,traditional varieties,extra sweet variety
+prune puree	
+passion fruit juice	purple,raw,yellow
+pomegranates	raw
+roselle	raw
+figs	raw,canned,water pack,solids and liquids,light syrup pack,heavy syrup pack,extra heavy syrup pack,dried,uncooked,stewed

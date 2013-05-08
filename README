@@ -1,0 +1,8 @@
+USDA Modifiers
+3/18/2013
+
+This program is intended to serve as a simple example of how I use Python to
+facilitate everyday language data collection tasks. It attempts to isolate the 
+canonical form of each type of food in the USDA database, and provide a list of 
+given modifiers for each food. The numword module is required to convert numbers
+to words during the normalization process.

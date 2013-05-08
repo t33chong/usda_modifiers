@@ -1,0 +1,37 @@
+sweeteners	tabletop,aspartame,equal,packets,sucralose,splenda packets,for baking,brown,contains sugar and sucralose,sugar substitute,granulated,saccharin,fructose,dry,powder,liquid
+snacks	fruit leather,pieces,rolls
+candies	tootsie roll,chocolate flavor roll,almond joy candy bar,twizzlers cherry bites,nestle,bit o' honey candy chews,butterfinger bar,butterscotch,carob,unsweetened,caramels,caramello candy bar,confectioner's coating,yogurt,semisweet chocolate,sweet chocolate,sweet chocolate coated fondant,hershey's golden almond solitaires,peanut butter,white chocolate,york peppermint pattie,twizzlers nibs cherry bits,symphony milk chocolate bar,fiveth avenue candy bar,fondant,prepared from recipe,fudge,chocolate,with nuts,vanilla,vanilla with nuts,goobers chocolate covered peanuts,gumdrops,starch jelly pieces,hard,jellybeans,kit kat wafer bar,krackel chocolate bar,baby ruth bar,twizzlers strawberry twists candy,mars snackfood us,mars almond bar,marshmallows,halavah,plain,oh henry! bar,chunky bar,milk chocolate,milk chocolate coated peanuts,milk chocolate coated raisins,hershey's pot of gold almond bar,with almonds,with rice cereal,milky way bar,skor toffee bar,truffles,m&m's peanut chocolate candies,m&m's milk chocolate candies,mounds candy bar,mr. goodbar chocolate bar,one hundred grand bar,crunch bar and dessert topping,peanut bar,peanut brittle,raisinets chocolate covered raisins,reese's peanut butter cups,reese's pieces candy,rolo caramels in milk chocolate,after eight mints,sesame crunch,snickers bar,starburst fruit chews,original fruits,m&m's minis milk chocolate candies,three musketeers bar,twix caramel cookie bars,twix peanut butter cookie bars,whatchamacallit candy bar,special dark chocolate bar,york bites,praline,hershey's milk chocolate with almond bites,reese's bites,reese's nutrageous candy bar,heath bites,hershey's,almond joy bites,hershey,reesesticks crispy wafers,kit kat big kat bar,reese's,fast break,milk chocolate peanut butter and soft nougats,dove milk chocolate,dove dark chocolate,milky way caramels,milk chocolate covered,milky way caramels. dark chocolate covered,dark chocolate coated coffee beans,milk chocolate coated coffee beans,m&m's crispy chocolate candies,snickers munch bar,chocolate marshmallow,prepared by recipe,snickers almond bar,pop'ables snickers brand bite size candies,pop'ables milky way brand bite size candies,pop'ables three musketeers brand bite size candies,fruit and creme,tropical fruits,starburst sour fruit chews,cocoavia chocolate bar,cocoavia blueberry and almond chocolate bar,cocoavia crispy chocolate bar,snickers cruncher,skittles wild berry bite size candies,skittles tropical bite size candies,skittles sours original,skittles original bite size candies,taffy,toffee,divinity,made with butter,sugar coated almonds,soft fruit and nut squares,reese's fast break,soft nougats,candy bar,cocoavia chocolate covered almonds,dark,nfs,crispy bar with peanut butter filling,m&m's peanut butter chocolate candies,twix chocolate fudge cookie bars,milky way midnight bar,m&m's almond chocolate candies,chocolate covered,caramel with nuts,nougat,gum drops,dietetic or low calorie
+sherbet	orange
+sugars	brown,granulated,powdered,maple
+frostings	chocolate,creamy,ready to eat,coconut nut,cream cheese flavor,vanilla,dry mix,prepared with butter,white,fluffy,prepared with water,prepared with margarine,glaze,prepared from recipe,with butter,nfsmi recipe no. c thirty-two
+frozen novelties	ice type,fruit,no sugar added,fruit and juice bars,lime,italian,restaurant prepared,pop,pineapple coconut,juice type,popsicle scribblers,fudgesicle pops,fat free fudgesicle bars,sugar free,orange,cherry,and grape popsicle pops,klondike,slim a bear fudge bar,ninety-eight percent fat free,slim a bear vanilla cone,slim a bear chocolate cone,slim a bear vanilla sandwich,slim a bear chocolate sandwich,slim a bear mint sandwich,slim a bear,stickless bar,no sugar added creamsicle pops,creamsicle pops,ice cream type,vanilla ice cream,light,chocolate coated,sundae,prepackaged,chocolate or caramel covered,with nuts,with low calorie sweetener
+cocoa	dry powder,unsweetened,processed with alkali,hershey's european style cocoa,hi fat or breakfast,plain
+desserts	flan,caramel custard,prepared from recipe,egg custard,baked,mousse,chocolate,apple crisp,rennin,dry mix,vanilla,tablets,unsweetened
+jellies	reduced sugar,home preserved
+chewing gum	sugarless
+syrups	table blends,pancake,with butter,reduced calorie,chocolate,hershey's genuine chocolate flavored lite syrup,fudge type,corn,dark,light,high fructose,malt,maple,sorghum,with two percent maple,cane and fifteen percent maple,refiner,and sugar,with added potassium,grenadine,dietetic
+frozen yogurts	vanilla,soft serve,chocolate,nonfat milk,sweetened without sugar,flavors other than chocolate
+sugar	turbinado
+milk dessert	frozen,milk fat free,chocolate
+pudding	lemon,dry mix,regular,prepared with sugar,egg yolk and water
+frozen novelites	juice type,juice with cream
+syrup	maple,canadian,cane
+fruit butters	apple
+pectin	unsweetened,dry mix,liquid
+gelatin desserts	dry mix,prepared with water,reduced calorie,with aspartame,with added ascorbic acid,sodium citrate and salt,added phosphorus,potassium,sodium,vitamin c,no added sodium
+chocolate	dark,forty-five  fifty-nine percent cacao solids,sixty sixty-nine percent cacao solids,seventy eighty-five percent cacao solids
+molasses	
+pie fillings	apple,canned,cherry,low calorie,blueberry
+flan	caramel custard,dry mix,prepared with two percent milk,prepared with whole milk
+sweetener	syrup,agave
+baking chocolate	unsweetened,liquid,squares,mexican,mars snackfood us,m&m's semisweet chocolate mini baking bits,m&m's milk chocolate mini baking bits
+puddings	banana,dry mix,instant,prepared with two percent milk,regular,chocolate,ready to eat,prepared with whole milk,coconut cream,rice,tapioca,vanilla,lemon,fat free,with added oil,potassium,sodium,with no added salt,chocolate flavor,low calorie,all flavors except chocolate
+egg custards	dry mix,prepared with whole milk,prepared with two percent milk
+chocolate flavored hazelnut spread	
+rennin	chocolate,dry mix,prepared with two percent milk,vanilla,prepared with whole milk
+honey	
+marmalade	orange
+toppings	strawberry,butterscotch or caramel,marshmallow cream,pineapple,nuts in syrup
+gelatins	dry powder,unsweetened
+ice creams	vanilla,light,rich,french vanilla,soft serve,chocolate,no sugar added,strawberry,fat free,breyers,all natural light vanilla,all natural light french vanilla,ninety-eight percent fat free vanilla,all natural light vanilla chocolate strawberry,all natural light mint chocolate chip,butter pecan,vanilla fudge twirl,vanilla chocolate strawberry,all natural light french chocolate,ninety-eight percent fat free chocolate,chocolate caramel,regular,low carbohydrate
+jams and preserves	apricot,dietetic,any flavor

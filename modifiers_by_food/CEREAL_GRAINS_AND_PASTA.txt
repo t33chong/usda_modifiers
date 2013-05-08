@@ -1,0 +1,49 @@
+oat bran	raw,cooked
+barley malt flour	
+kamut	uncooked,cooked
+wheat bran	crude
+millet	raw,cooked
+rice bran	crude
+triticale	
+noodles	egg,dry,enriched,cooked,spinach,chinese,chow mein,japanese,soba,somen,flat,crunchy,chinese restaurant,with added salt,unenriched,without added salt
+spaghetti	dry,enriched,cooked,without added salt,protein fortified,whole wheat,spinach,with added salt,unenriched
+sorghum flour	
+teff	uncooked,cooked
+millet flour	
+wheat flour	whole grain,white,all purpose,enriched,bleached,self rising,bread,cake,tortilla mix,calcium fortified,unenriched,unbleached,nine percent protein,ten percent protein,eleven.five percent protein,thirteen percent protein,fifteen percent protein,soft wheat
+rye	
+amaranth	uncooked
+macaroni	dry,enriched,cooked,protein fortified,,vegetable,whole wheat,unenriched
+barley	hulled,pearled,raw,cooked
+couscous	dry,cooked
+rice	brown,long grain,raw,cooked,medium grain,white,regular,enriched,parboiled,dry,precooked or instant,prepared,short grain,glutinous,with pasta,steamed,chinese restaurant,with salt,unenriched,without salt
+corn bran	crude
+triticale flour	whole grain
+bulgur	dry,cooked
+wheat	hard red spring,hard red winter,soft red winter,hard white,soft white,durum,sprouted
+corn	yellow,white
+buckwheat	
+quinoa	uncooked,cooked
+wild rice	raw,cooked
+spelt	uncooked,cooked
+semolina	enriched,unenriched
+pasta	corn,dry,cooked,fresh refrigerated,plain,as purchased,spinach,homemade,made with egg,made without egg
+buckwheat flour	whole groat
+wheat flours	bread,unenriched
+rye flour	dark,medium,light
+barley flour or meal	
+cornstarch	
+hominy	canned,white,yellow
+buckwheat groats	roasted,dry,cooked
+oats	
+corn flour	whole grain,yellow,masa,enriched,white,degermed,unenriched,blue
+tapioca	pearl,dry
+rice flour	white,brown
+rice noodles	dry,cooked
+cornmeal	whole grain,yellow,degermed,enriched,self rising,bolted,plain,with wheat flour added,white,unenriched
+arrowroot flour	
+amaranth grain	cooked
+wheat germ	crude
+sorghum	
+vital wheat gluten	
+oat flour	partially debranned

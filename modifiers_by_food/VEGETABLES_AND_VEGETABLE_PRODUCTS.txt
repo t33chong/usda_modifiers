@@ -1,0 +1,170 @@
+chrysanthemum leaves	raw
+kale	raw,cooked,boiled,drained,without salt,frozen,unprepared,scotch,with salt
+turnip greens and turnips	frozen,unprepared,cooked,boiled,drained,without salt,with salt
+kanpyo	
+lambs quarters	cooked,boiled,drained,with salt
+carrot juice	canned
+fennel	bulb,raw
+seaweed	agar,raw,irishmoss,kelp,laver,dried,spirulina,wakame,canadian cultivated emi tsunomata,dry,rehydrated
+hyacinth beans	immature seeds,raw,cooked,boiled,drained,without salt,with salt
+gourd	white flowered,raw,cooked,boiled,drained,without salt,dishcloth,with salt
+mountain yam	hawaii,raw,cooked,steamed,without salt,with salt
+celery	raw,cooked,boiled,drained,without salt,with salt
+tomatoes	green,raw,red,ripe,year round average,cooked,canned,packed in tomato juice,stewed,with green chilies,crushed,orange,yellow,with salt,no salt added,sun dried,packed in oil,drained
+cress	garden,raw,cooked,boiled,drained,without salt,with salt
+yambean	raw,cooked,boiled,drained,without salt,with salt
+pumpkin	raw,cooked,boiled,drained,without salt,canned,with salt,flowers
+chives	raw,freeze dried
+endive	raw
+potato flour	
+dock	raw,cooked,boiled,drained,without salt,with salt
+taro shoots	raw,cooked,without salt
+tree fern	cooked,without salt,with salt
+turnip greens	raw,cooked,boiled,drained,without salt,canned,solids and liquids,frozen,unprepared,with salt,no salt added
+mung beans	mature seeds,sprouted,raw,cooked,boiled,drained,without salt,stir fried,with salt
+winged bean tuber	raw
+pepeao	dried
+tomato powder	
+asparagus	raw,cooked,boiled,drained,canned,regular pack,solids and liquids,drained solids,frozen,unprepared,without salt,with salt,no salt added
+corn with red and green peppers	canned,solids and liquids
+rutabagas	raw,cooked,boiled,drained,without salt,with salt
+bamboo shoots	raw,cooked,boiled,drained,without salt,canned,drained solids,with salt
+potatoes	russet,flesh and skin,raw,white,red,baked,french fried,crinkle or regular cut,salt added in processing,frozen,as purchased,oven heated,skin,flesh,without salt,boiled,cooked in skin,cooked without skin,microwaved,hashed brown,home prepared,mashed,whole milk and margarine added,scalloped,home prepared with butter,au gratin,home prepared from recipe using butter,canned,solids and liquids,drained solids,dehydrated,flakes without milk,dry form,prepared from flakes without milk,whole milk and butter added,granules without milk,prepared from granules without milk,granules with milk,prepared from granules with milk,water and margarine added,dry mix,unprepared,prepared with water,whole milk and butter,plain,prepared,with butter sauce,shoestring,o'brien,whole,cooked,drained,all types,cottage cut,salt not added in processing,par fried,extruded,heated in oven,steak fries,whole milk added,with salt,in skin,skin with salt,home prepared from recipe using margarine,home prepared with margarine,prepared from granules,without milk,whole milk and margarine,no salt added
+campbell's	tomato juice,low sodium,v eight vegetable juice,organic v eight,organic tomato juice,v eight one hundred percent vegetable juice,essential antioxidants v eight,calcium enriched v eight,low sodium v eight,spicy hot v eight,v eight sixty percent vegetable juice,v eight v lite,low sodium spicy hot,high fiber v eight
+lemon grass	raw
+eppaw	raw
+pickle relish	hot dog,sweet,hamburger
+vegetable juice cocktail	canned
+purslane	raw,cooked,boiled,drained,without salt,with salt
+potato salad	home prepared
+tomato products	canned,paste,without salt added,puree,sauce,with mushrooms,with onions,with herbs and cheese,green peppers,and celery,with tomato tidbits,spanish style,with salt added
+pickles	cucumber,dill or kosher dill,sweet,sour,low sodium,dill,chowchow,with cauliflower onion mustard
+pigeonpeas	immature seeds,raw,cooked,boiled,drained,without salt,with salt
+balsam pear	leafy tips,raw,cooked,boiled,drained,without salt,pods,with salt
+lentils	sprouted,raw,cooked,stir fried,without salt,with salt
+brussels sprouts	raw,cooked,boiled,drained,without salt,frozen,unprepared,with salt
+okra	raw,cooked,boiled,drained,without salt,frozen,unprepared,with salt
+pace	jalapenos nacho sliced peppers,diced green chilies
+leeks	,raw,cooked,boiled,drained,without salt,freeze dried,with salt
+salsify	,raw,cooked,boiled,drained,without salt,with salt
+celtuce	raw
+usda commodity	potato wedges,frozen
+pokeberry shoots	,raw,cooked,boiled,drained,without salt,with salt
+dandelion greens	raw,cooked,boiled,drained,without salt,with salt
+peas and carrots	canned,regular pack,solids and liquids,frozen,unprepared,cooked,boiled,drained,without salt,no salt added,with salt
+edamame	frozen,unprepared,prepared
+pepper	banana,raw
+yautia	raw
+cauliflower	raw,cooked,boiled,drained,without salt,frozen,unprepared,with salt,green,no salt added
+malabar spinach	cooked
+corn	sweet,yellow,raw,cooked,boiled,drained,without salt,canned,brine pack,regular pack,solids and liquids,whole kernel,drained solids,cream style,vacuum pack,rinsed with tap water,frozen,kernels cut off cob,unprepared,kernels on cob,microwaved,with salt,no salt added,kernels,cut off cob,white
+drumstick leaves	raw,cooked,boiled,drained,without salt,with salt
+taro	raw,cooked,without salt,tahitian,with salt,leaves,steamed,shoots
+arugula	raw
+winged bean leaves	raw
+borage	raw,cooked,boiled,drained,without salt,with salt
+tomato juice	canned,with salt added,without salt added
+vinespinach	,raw
+drumstick pods	raw,cooked,boiled,drained,without salt,with salt
+waterchestnuts	chinese,,raw,canned,solids and liquids
+radish seeds	sprouted,raw
+succotash	,raw,cooked,boiled,drained,without salt,canned,with cream style corn,with whole kernel corn,solids and liquids,frozen,unprepared,with salt
+mustard spinach	,raw,cooked,boiled,drained,without salt,with salt
+nopales	raw,cooked,without salt
+beans	kidney,mature seeds,sprouted,raw,cooked,boiled,drained,without salt,lima,immature seeds,canned,regular pack,solids and liquids,navy,pinto,frozen,unprepared,shellie,snap,green,green variety,drained solids,all styles,seasoned,drained without salt,microwaved,mung,with salt,yellow,no salt added,fava,in pod
+jew's ear	,raw
+eggplant	raw,cooked,boiled,drained,without salt,with salt,pickled
+garlic	raw
+broadbeans	immature seeds,raw,cooked,boiled,drained,without salt,with salt
+healthy request tomato juice	
+soybeans	green,raw,cooked,boiled,drained,without salt,mature seeds,sprouted,steamed,stir fried,with salt
+artichokes	,raw,cooked,boiled,drained,without salt,frozen,unprepared,with salt
+mushrooms	shiitake,raw,chanterelle,morel,portabella,grilled,white,cooked,boiled,drained,without salt,stir fried,canned,drained solids,brown,italian,or crimini,dried,with salt,exposed to ultraviolet light,enoki,oyster,straw,microwaved,maitake
+lettuce	butterhead,raw,cos or romaine,iceberg,green leaf,red leaf
+celeriac	raw,cooked,boiled,drained,without salt,with salt
+poi	
+amaranth leaves	raw,cooked,boiled,drained,without salt,with salt
+cassava	raw
+watercress	raw
+hearts of palm	canned
+celery flakes	dried
+spinach	raw,cooked,boiled,drained,without salt,canned,regular pack,solids and liquids,drained solids,frozen,chopped or leaf,unprepared,with salt,no salt added
+vegetables	mixed,canned,solids and liquids,drained solids,frozen,unprepared,cooked,boiled,drained,without salt,with salt,mixed  canned,no salt added
+parsley	fresh,freeze dried
+tomato and vegetable juice	low sodium
+broccoli	raw,cooked,boiled,drained,without salt,frozen,chopped,unprepared,spears,leaves,flower clusters,stalks,with salt,chinese
+yam	raw,cooked,boiled,drained,or baked,without salt,with salt
+chrysanthemum	garland,raw,cooked,boiled,drained,without salt,with salt
+peppers	hot chili,green,canned,pods,excluding seeds,solids and liquids,sweet,raw,cooked,boiled,drained,without salt,frozen,chopped,unprepared,sauteed,jalapeno,freeze dried,red,with salt,yellow,hot chile,sun dried,serrano,ancho,dried,chili,hungarian,pasilla
+broccoli raab	raw,cooked
+chicory greens	raw
+new zealand spinach	raw,cooked,boiled,drained,without salt,with salt
+sweet potato leaves	raw,cooked,steamed,without salt,with salt
+cardoon	raw,cooked,boiled,drained,without salt,with salt
+lima beans	immature seeds,raw,cooked,boiled,drained,without salt,frozen,fordhook,unprepared,baby,with salt,canned,no salt added,solids and liquids
+waxgourd	,raw,cooked,boiled,drained,without salt,with salt
+arrowroot	raw
+epazote	raw
+palm hearts	raw
+beet greens	raw,cooked,boiled,drained,without salt,with salt
+tomatillos	raw
+lotus root	raw,cooked,boiled,drained,without salt,with salt
+jute	potherb,raw,cooked,boiled,drained,without salt,with salt
+lambsquarters	raw,cooked,boiled,drained,without salt
+corn pudding	home prepared
+yeast extract spread	
+pumpkin pie mix	canned
+cornsalad	raw
+grape leaves	raw,canned
+onion rings	breaded,par fried,frozen,unprepared,prepared,heated in oven
+potato pancakes	
+sweet potato	raw,unprepared,cooked,baked in skin,without salt,boiled,without skin,canned,vacuum pack,mashed,frozen,baked,syrup pack,solids and liquids,drained solids,candied,home prepared,with salt
+chayote	fruit,raw,cooked,boiled,drained,without salt,with salt
+coleslaw	home prepared
+carrots	raw,cooked,boiled,drained,without salt,canned,regular pack,solids and liquids,drained solids,frozen,unprepared,with salt,no salt added,baby
+swamp cabbage	,raw,cooked,boiled,drained,without salt,with salt
+turnips	raw,cooked,boiled,drained,without salt,frozen,unprepared,with salt
+carrot	dehydrated
+onions	raw,cooked,boiled,drained,without salt,dehydrated flakes,canned,solids and liquids,yellow,sauteed,frozen,chopped,unprepared,whole,spring or scallions,young green,tops only,welsh,sweet,with salt
+wasabi	root,raw
+peas and onions	canned,solids and liquids,frozen,unprepared,cooked,boiled,drained,without salt,with salt
+arrowhead	raw,cooked,boiled,drained,without salt,with salt
+catsup	low sodium
+taro leaves	raw,cooked,steamed,without salt
+pumpkin leaves	raw,cooked,boiled,drained,without salt,with salt
+cowpeas	immature seeds,raw,cooked,boiled,drained,without salt,frozen,unprepared,young pods with seeds,leafy tips,with salt
+chicory	witloof,raw
+tomato sauce	canned,no salt added
+butterbur	,raw,cooked,boiled,drained,without salt,canned,with salt
+chicory roots	raw
+burdock root	raw,cooked,boiled,drained,without salt,with salt
+fireweed	leaves,raw
+parsnips	raw,cooked,boiled,drained,without salt,with salt
+jerusalem artichokes	raw
+kohlrabi	raw,cooked,boiled,drained,without salt,with salt
+potato puffs	frozen,unprepared,oven heated
+peas	edible podded,raw,boiled,drained,without salt,frozen,unprepared,cooked,green,canned,regular pack,solids and liquids,drained solids,seasoned,rinsed in tap water,mature seeds,sprouted,with salt,no salt added
+sesbania flower	raw,cooked,steamed,without salt,with salt
+squash	summer,crookneck and straightneck,raw,cooked,boiled,drained,without salt,canned,solid,frozen,unprepared,scallop,zucchini,includes skin,italian style,winter,acorn,baked,mashed,butternut,hubbard,spaghetti,or baked,all varieties,with salt,baby
+yardlong bean	raw,cooked,boiled,drained,without salt,with salt
+fiddlehead ferns	raw,frozen,unprepared
+winged bean	immature seeds,cooked,boiled,drained,with salt
+cucumber	with peel,raw,peeled
+shallots	freeze dried,raw
+pimento	canned
+collards	raw,cooked,boiled,drained,without salt,frozen,chopped,unprepared,with salt
+cabbage	raw,cooked,boiled,drained,without salt,red,savoy,chinese,common,freshly harvest,stored,with salt,napa,japanese style,fresh,pickled,mustard,salted
+ginger root	raw
+alfalfa seeds	sprouted,raw
+chard	swiss,raw,cooked,boiled,drained,without salt,with salt
+sauerkraut	canned,solids and liquids,low sodium
+radishes	raw,oriental,cooked,boiled,drained,without salt,dried,white icicle,with salt,hawaiian style,pickled
+coriander  leaves	raw
+beets	raw,cooked,boiled,drained,canned,regular pack,solids and liquids,drained solids,harvard,pickled,boiled. drained,with salt,no salt added
+potato	flesh and skin,raw,baked,without salt
+mustard greens	raw,cooked,boiled,drained,without salt,frozen,unprepared,with salt
+spinach souffle	
+fungi	cloud ears,dried
+winged beans	immature seeds,raw,cooked,boiled,drained,without salt
+radicchio	raw
+pumpkin flowers	raw,cooked,boiled,drained,without salt

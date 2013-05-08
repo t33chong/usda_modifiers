@@ -1,0 +1,28 @@
+turkey sticks	breaded,battered,fried
+pheasant	raw,meat and skin,meat only,breast,leg,cooked,total edible
+poultry food products	ground turkey,raw,cooked
+chicken patty	frozen,uncooked,cooked
+goose	domesticated,meat and skin,raw,cooked,roasted,meat only,liver
+duck	domesticated,meat and skin,raw,cooked,roasted,meat only,liver,wild,breast,young duckling,white pekin,boneless,cooked without skin,broiled,leg,bone in,braised
+quail	meat and skin,raw,meat only,breast,cooked,total edible
+chicken	broiler,rotisserie,bbq,breast meat only,broilers or fryers,meat and skin and giblets and neck,raw,cooked,fried,batter,flour,roasted,stewed,meat and skin,meat only,skin only,giblets,simmered,gizzard,all classes,heart,liver,light meat,dark meat,separable fat,back,breast,drumstick,leg,neck,cooked simmered,thigh,wing,roasting,stewing,and giblets and neck,capons,canned,with broth,cornish game hens,no broth,frozen,glazed,barbecue flavored,heated,skinless,boneless,enhanced,ground,crumbles,pan browned,feet,boiled,original seasoning,skin,back meat and skin,breast meat and skin,drumstick meat and skin,thigh meat and skin,wing meat and skin,pan fried,braised,back meat only
+chicken nuggets	frozen,cooked,uncooked
+turkey	all classes,meat and skin and giblets and neck,raw,cooked,roasted,whole,meat and skin,meat only,skin from whole,,giblets,simmered,gizzard,heart,liver,dark meat,dark meat from whole,light meat,from whole,back,breast,leg,wing,fryer roasters,young hen,skin only,canned,with broth,diced,light and dark meat,seasoned,mechanically deboned,from turkey frames,enhanced,smoked,with skin,bone removed,drumstick,light or dark meat,skin and bone removed
+turkey patties	breaded,battered,fried
+dove	cooked
+ground turkey	fat free,raw,pan broiled crumbles,patties,broiled,ninety-three percent lean,seven percent fat,eighty-five percent lean,fifteen percent fat
+pate de foie gras	canned,smoked
+usda commodity	chicken,canned,meat only,with water,with broth,chicken fajita strips,frozen,turkey taco meat,cooked,turkey ham,dark meat,smoked
+squab	,meat and skin,raw,meat only,light meat without skin
+turkey from whole	neck,meat only,raw,cooked,simmered,light meat,meat and skin,roasted,dark meat,enhanced
+turkey breast	pre basted,meat and skin,cooked,roasted
+turkey thigh	pre basted,meat and skin,cooked,roasted
+guinea hen	meat and skin,raw,meat only
+poultry	mechanically deboned,from backs and necks with skin,raw,from backs and necks without skin,from mature hens
+usda commodity chicken	canned,meat only,drained
+turkey and gravy	frozen
+chicken breast tenders	cooked,conventional oven,microwaved,breaded,uncooked
+ostrich	ground,raw,cooked,pan broiled,fan,inside leg,inside strip,outside leg,outside strip,oyster,round,tenderloin,tip trimmed,top loin
+emu	ground,raw,cooked,pan broiled,fan fillet,broiled,flat fillet,full rump,inside drum,inside drums,outside drum,oyster,top loin
+turkey roast	boneless,frozen,seasoned,light and dark meat,raw,roasted
+turkey bacon	cooked

@@ -1,0 +1,14 @@
+dill weed	fresh
+mustard	prepared,yellow
+thyme	fresh
+vinegar	cider,distilled,red wine,balsamic
+rosemary	fresh
+peppermint	fresh
+pace	dry taco seasoning mix
+horseradish	prepared
+basil	fresh
+capers	canned
+spices	allspice,ground,anise seed,basil,dried,bay leaf,caraway seed,cardamom,celery seed,chervil,chili powder,cinnamon,cloves,coriander leaf,coriander seed,cumin seed,curry powder,dill seed,dill weed,fennel seed,fenugreek seed,garlic powder,ginger,mace,marjoram,mustard seed,nutmeg,onion powder,oregano,paprika,parsley,pepper,black,red or cayenne,white,poppy seed,poultry seasoning,pumpkin pie spice,rosemary,saffron,sage,savory,tarragon,thyme,turmeric
+salt	table
+spearmint	fresh,dried
+vanilla extract	imitation,alcohol,no alcohol
